@@ -48,8 +48,6 @@ HMS offers a role-based, secure, and scalable platform that integrates all core 
 
 ### Authentication & Validation
 - Clerk Authentication (Role-based access)  
-- React Hook Form  
-- Zod  
 
 ### Database & Cloud
 - Firebase  
@@ -68,11 +66,3 @@ HMS offers a role-based, secure, and scalable platform that integrates all core 
 - **Google AI Studio** – Development and testing of AI features  
 - **Open Source AI Models** – Medical test file analysis  
 
----
-
-## ⚙️ Setup Instructions
-Follow these steps to run the project locally:
-
-1. Clone the repository  
-   ```bash
-   git clone <repository-url>
