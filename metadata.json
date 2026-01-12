@@ -1,0 +1,8 @@
+{
+  "name": "MonkeyCoders",
+  "description": "A centralized Healthcare Management System for patients, doctors, and administrators with Gemini-powered AI support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
