@@ -56,8 +56,7 @@ HMS offers a role-based, secure, and scalable platform that integrates all core 
 
 ## ☁️ Google Technologies Used
 > Use of Google technologies is mandatory for this hackathon.
-
-- **Firebase Authentication** – Secure user login and access control  
+  
 - **Firebase Cloud Functions** – Backend serverless logic  
 - **Firebase Storage** – Storage of medical records and files  
 - **Firebase Hosting** – Application deployment and hosting  
